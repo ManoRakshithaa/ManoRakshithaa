@@ -2,13 +2,13 @@
 
 <p align="center">
   <b>CS with AI grad · Build-first mindset · Ships fast, iterates faster</b><br/>
-  I work with foundational ML groundwork as in data pipelines, baseline models, preprocessing so teams can focus on scaling what works.
+  I work with foundational ML groundwork as in data pipelines, models, preprocessing so teams can focus on scaling what works.
 </p>
 
 ---
 
 ### So who am I?
-CS + AI student (graduating June 2026) with hands-on experience across competitive intelligence, AI, and NLP. I've been building since I was a kid and I believe real-world ML requires heavy lifting before a model ever hits production.
+CS + AI student (graduating June 2026) with hands-on experience across competitive intelligence, AI, and NLP. I've been building since I was a kid and believe real-world ML requires alot of work before a model ever hits production.
 
 ### Tools that I use
 
@@ -18,7 +18,7 @@ CS + AI student (graduating June 2026) with hands-on experience across competiti
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Currently learning
-Scaling ML systems · MLOps · Advanced LLM fine-tuning
+Cloud deployment (AWS / GCP) · MLOps · Git workflows
 
 ### Fun fact
 - I love playing and developing new games
