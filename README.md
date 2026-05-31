@@ -7,17 +7,17 @@
 
 ---
 
-### 🔭 Who I am
+### So who am I?
 CS + AI student (graduating June 2026) with hands-on experience across competitive intelligence, AI, and NLP. I've been building since I was a kid and I believe real-world ML requires heavy lifting before a model ever hits production.
 
-### 🛠️ Tools I use
+### Tools that I use
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
-### 🌱 Currently learning
+### Currently learning
 Scaling ML systems · MLOps · Advanced LLM fine-tuning
 
 ### ⚡ Fun fact
@@ -26,5 +26,6 @@ Scaling ML systems · MLOps · Advanced LLM fine-tuning
 - Love exploring new places, cultures, and experiences
 - Always hungry to learn >:)
 
-### 📫 Reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/m](https://www.linkedin.com/in/mano-rakshitha)
+### Reach me by
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mano-rakshitha)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manorakshithaa@gmail.com)
