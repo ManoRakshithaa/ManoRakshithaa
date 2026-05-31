@@ -20,7 +20,7 @@ CS + AI student (graduating June 2026) with hands-on experience across competiti
 ### Currently learning
 Scaling ML systems · MLOps · Advanced LLM fine-tuning
 
-### ⚡ Fun fact
+### Fun fact
 - I love playing and developing new games
 - I don't drink coffee/tea
 - Love exploring new places, cultures, and experiences
