@@ -1,16 +1,30 @@
-## Hi there 👋
+<h1 align="center">Hello there! I'm Mano Rakshitha</h1>
 
-<!--
-**ManoRakshithaa/ManoRakshithaa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <b>CS with AI grad · Build-first mindset · Ships fast, iterates faster</b><br/>
+  I work with foundational ML groundwork as in data pipelines, baseline models, preprocessing so teams can focus on scaling what works.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🔭 Who I am
+CS + AI student (graduating June 2026) with hands-on experience across competitive intelligence, AI, and NLP. I've been building since I was a kid and I believe real-world ML requires heavy lifting before a model ever hits production.
+
+### 🛠️ Tools I use
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+
+### 🌱 Currently learning
+Scaling ML systems · MLOps · Advanced LLM fine-tuning
+
+### ⚡ Fun fact
+- I love playing and developing new games
+- I don't drink coffee/tea
+- Love exploring new places, cultures, and experiences
+- Always hungry to learn >:)
+
+### 📫 Reach me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)]([https://linkedin.com/in/m](https://www.linkedin.com/in/mano-rakshitha)
