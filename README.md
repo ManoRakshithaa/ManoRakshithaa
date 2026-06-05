@@ -1,14 +1,14 @@
 <h1 align="center">Hello there! I'm Mano Rakshitha</h1>
 
 <p align="center">
-  <b>CS with AI grad · Build-first mindset · Ships fast, iterates faster</b><br/>
+  <b>CS with AI grad · Build-first mindset · Ships fast</b><br/>
   I work with foundational ML groundwork as in data pipelines, models, preprocessing so teams can focus on scaling what works.
 </p>
 
 ---
 
 ### So who am I?
-CS + AI student (graduating June 2026) with hands-on experience across competitive intelligence, AI, and NLP. I've been building since I was a kid and believe real-world ML requires alot of work before a model ever hits production.
+CS with AI student (graduating June 2026) with actual experience in competitive intelligence, Data pipielines, AI and NLP. I have been building since I was a kid and I believe that real world ML requires a lot of work before a model ever considers production.
 
 ### Tools that I use
 
@@ -26,6 +26,6 @@ Cloud deployment (AWS / GCP) · MLOps · Git workflows
 - Love exploring new places, cultures, and experiences
 - Always hungry to learn >:)
 
-### Reach me by
+### Reach me!
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mano-rakshitha)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:manorakshithaa@gmail.com)
