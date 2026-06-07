@@ -8,7 +8,7 @@
 ---
 
 ### So who am I?
-CS with AI student (graduating June 2026) with actual experience in competitive intelligence, Data pipielines, AI and NLP. I have been building since I was a kid and I believe that real world ML requires a lot of work before a model ever considers production.
+CS with AI student (graduating June 2026) with actual experience in competitive intelligence, Data pipelines, AI and NLP. I have been building since I was a kid and I believe that real world ML requires a lot of work before a model ever considers production.
 
 ### Tools that I use
 
