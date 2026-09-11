@@ -18,7 +18,7 @@ CS with AI student (graduating June 2026) with actual experience in competitive 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ### Currently learning
-Cloud deployment (AWS / GCP) · MLOps · Git workflows
+REST API · MLOps · Git workflows
 
 ### Fun fact
 - I love playing and developing new games
